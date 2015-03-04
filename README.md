@@ -1,6 +1,6 @@
-Labyrinth Escape
+Snake
 ======================
-This is the repository for Labyrinth Escape: Under Construction (BETA). This game will be managed by carTreiLowe.
+This is the repository for the Snake Game: Under Construction (BETA). This game will be managed by carTreiLowe.
 
 Lowe Antony Balean
 
